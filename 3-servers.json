@@ -1,0 +1,22 @@
+{
+    "content": "",
+    "username": "Welcome to N3FS!",
+    "avatar_url": "https://n3fs.co.uk/assets/images/logo.png",
+    "embeds": [
+        {
+            "title": "Our game servers",
+            "description": "We currently run the following servers:",
+            "fields": [
+                {
+                    "name": "Minecraft",
+                    "value": "`mc.n3fs.co.uk` / Minecraft 1.13.2 / [More info](https://n3fs.co.uk/minecraft)"
+                },
+                {
+                    "name": "Discord",
+                    "value": "`discord.gg/emfFRbW` / You're already here. / [More info](https://n3fs.co.uk/discord)"
+                }
+            ],
+            "color": 14692657
+        }
+    ]
+}

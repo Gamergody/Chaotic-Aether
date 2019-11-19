@@ -1,0 +1,12 @@
+{
+    "content": "",
+    "username": "Welcome to N3FS!",
+    "avatar_url": "https://n3fs.co.uk/assets/images/logo.png",
+    "embeds": [
+        {
+            "title": "Help & Support, and contacting staff",
+            "description": "For support requests, please post in <#258965196926746624>. \n\nAlternatively, general feedback and discussion can be posted in <#567737300537311262>, or you can send a DM directly to a staff member.",
+            "color": 14692657
+        }
+    ]
+}

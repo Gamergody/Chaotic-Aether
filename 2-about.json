@@ -1,0 +1,15 @@
+{
+    "content": "",
+    "username": "Welcome to N3FS!",
+    "avatar_url": "https://n3fs.co.uk/assets/images/logo.png",
+    "embeds": [
+        {
+            "title": "About N3FS",
+            "description": "The N3FS is a game community run by fans of NerdCubed, who miss playing on the former NerdCubed Servers, and have a flair for bodging servers together.",
+            "thumbnail": {
+                "url": "https://n3fs.co.uk/assets/images/logo.png"
+            },
+            "color": 14692657
+        }
+    ]
+}
